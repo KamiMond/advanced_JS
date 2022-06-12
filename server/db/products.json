@@ -1,0 +1,38 @@
+[
+  {
+    "id_product": 101,
+    "product_name": "Диффенбахия",
+    "price": 974,
+    "image": "/img/101.png"
+  },
+  {
+    "id_product": 102,
+    "product_name": "Драцена",
+    "price": 1588,
+    "image": "/img/102.png"
+  },
+  {
+    "id_product": 103,
+    "product_name": "Замиокулькас",
+    "price": 2255,
+    "image": "/img/103.png"
+  },
+  {
+    "id_product": 104,
+    "product_name": "Маранта",
+    "price": 1869,
+    "image": "/img/104.png"
+  },
+  {
+    "id_product": 105,
+    "product_name": "Монстера",
+    "price": 3865,
+    "image": "/img/105.png"
+  },
+  {
+    "id_product": 106,
+    "product_name": "Хамедорея",
+    "price": 815,
+    "image": "/img/106.png"
+  }
+]
