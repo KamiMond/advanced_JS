@@ -1,0 +1,42 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 101,
+            "product_name": "Диффенбахия",
+            "price": 974,
+            "quantity": 2
+        },
+        {
+            "id_product": 102,
+            "product_name": "Драцена",
+            "price": 1588,
+            "quantity": 3
+        },
+        {
+            "id_product": 103,
+            "product_name": "Замиокулькас",
+            "price": 2255,
+            "quantity": 9
+        },
+        {
+            "id_product": 104,
+            "product_name": "Маранта",
+            "price": 1869,
+            "quantity": 1
+        },
+        {
+            "id_product": 105,
+            "product_name": "Монстера",
+            "price": 3865,
+            "quantity": 1
+        },
+        {
+            "id_product": 106,
+            "product_name": "Хамедорея",
+            "price": 815,
+            "quantity": 1
+        }
+    ]
+}
